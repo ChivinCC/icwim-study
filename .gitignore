@@ -1,0 +1,7 @@
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+*学习记录*.json
+node_modules/
